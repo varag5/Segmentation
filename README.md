@@ -10,4 +10,4 @@ Real Ship Point Cloud Data: This folder contains real measured ship point clouds
 
 Real Airplane Pointclouds: This folder contains real airplane point cloud examples that were also used for testing.
 
-Before running the training or testing code, drag and drop all files nto the Jupyter/Google Colab file environment.
+Before running the training or testing code, drag and drop all files into the Jupyter/Google Colab file environment.
