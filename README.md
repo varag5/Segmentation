@@ -2,7 +2,7 @@ All files are available at the following link:
 
 https://drive.google.com/drive/folders/1E_Dvk1BVSK8OvkNahnbbNNMti_6xuU6F
 
-Ship Object For Training: This folder contains the 100 ship point clouds used for training the ship segmentation algorithm.
+Ship Objects For Training: This folder contains the 100 ship point clouds used for training the ship segmentation algorithm.
 
 
 Real Ship Point Cloud Data: This folder contains real measured ship point clouds, which should also be used for testing and evaluation.
